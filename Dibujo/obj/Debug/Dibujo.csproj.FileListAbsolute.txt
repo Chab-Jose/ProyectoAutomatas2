@@ -1,0 +1,24 @@
+C:\Users\FCarpio\Desktop\Temp\Dibujo\Dibujo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FCarpio\Desktop\Temp\Dibujo\Dibujo\obj\Debug\Dibujo.Form1.resources
+C:\Users\FCarpio\Desktop\Temp\Dibujo\Dibujo\obj\Debug\Dibujo.Form2.resources
+C:\Users\FCarpio\Desktop\Temp\Dibujo\Dibujo\obj\Debug\Dibujo.Properties.Resources.resources
+C:\Users\FCarpio\Desktop\Temp\Dibujo\Dibujo\obj\Debug\Dibujo.csproj.GenerateResource.Cache
+C:\Users\FCarpio\Desktop\Temp\Dibujo\Dibujo\bin\Debug\Dibujo.exe
+C:\Users\FCarpio\Desktop\Temp\Dibujo\Dibujo\bin\Debug\Dibujo.pdb
+C:\Users\FCarpio\Desktop\Temp\Dibujo\Dibujo\bin\Debug\CalithaLib.dll
+C:\Users\FCarpio\Desktop\Temp\Dibujo\Dibujo\bin\Debug\GoldParserEngine.dll
+C:\Users\FCarpio\Desktop\Temp\Dibujo\Dibujo\obj\Debug\Dibujo.exe
+C:\Users\FCarpio\Desktop\Temp\Dibujo\Dibujo\obj\Debug\Dibujo.pdb
+C:\Users\jose_\OneDrive\Documentos\Jose alejandro\7 semestre\Automatas 2\proyecto\Codigo Fuente\Aplicacion final\Dibujo\Dibujo\bin\Debug\Dibujo.exe
+C:\Users\jose_\OneDrive\Documentos\Jose alejandro\7 semestre\Automatas 2\proyecto\Codigo Fuente\Aplicacion final\Dibujo\Dibujo\bin\Debug\Dibujo.pdb
+C:\Users\jose_\OneDrive\Documentos\Jose alejandro\7 semestre\Automatas 2\proyecto\Codigo Fuente\Aplicacion final\Dibujo\Dibujo\bin\Debug\CalithaLib.dll
+C:\Users\jose_\OneDrive\Documentos\Jose alejandro\7 semestre\Automatas 2\proyecto\Codigo Fuente\Aplicacion final\Dibujo\Dibujo\bin\Debug\GoldParserEngine.dll
+C:\Users\jose_\OneDrive\Documentos\Jose alejandro\7 semestre\Automatas 2\proyecto\Codigo Fuente\Aplicacion final\Dibujo\Dibujo\obj\Debug\Dibujo.csprojAssemblyReference.cache
+C:\Users\jose_\OneDrive\Documentos\Jose alejandro\7 semestre\Automatas 2\proyecto\Codigo Fuente\Aplicacion final\Dibujo\Dibujo\obj\Debug\Dibujo.Form1.resources
+C:\Users\jose_\OneDrive\Documentos\Jose alejandro\7 semestre\Automatas 2\proyecto\Codigo Fuente\Aplicacion final\Dibujo\Dibujo\obj\Debug\Dibujo.Form2.resources
+C:\Users\jose_\OneDrive\Documentos\Jose alejandro\7 semestre\Automatas 2\proyecto\Codigo Fuente\Aplicacion final\Dibujo\Dibujo\obj\Debug\Dibujo.Properties.Resources.resources
+C:\Users\jose_\OneDrive\Documentos\Jose alejandro\7 semestre\Automatas 2\proyecto\Codigo Fuente\Aplicacion final\Dibujo\Dibujo\obj\Debug\Dibujo.csproj.GenerateResource.cache
+C:\Users\jose_\OneDrive\Documentos\Jose alejandro\7 semestre\Automatas 2\proyecto\Codigo Fuente\Aplicacion final\Dibujo\Dibujo\obj\Debug\Dibujo.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Documentos\Jose alejandro\7 semestre\Automatas 2\proyecto\Codigo Fuente\Aplicacion final\Dibujo\Dibujo\obj\Debug\Dibujo.csproj.CopyComplete
+C:\Users\jose_\OneDrive\Documentos\Jose alejandro\7 semestre\Automatas 2\proyecto\Codigo Fuente\Aplicacion final\Dibujo\Dibujo\obj\Debug\Dibujo.exe
+C:\Users\jose_\OneDrive\Documentos\Jose alejandro\7 semestre\Automatas 2\proyecto\Codigo Fuente\Aplicacion final\Dibujo\Dibujo\obj\Debug\Dibujo.pdb
